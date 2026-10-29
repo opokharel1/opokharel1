@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on web development projects<br>Looking to collaborate on open-source and AI projects<br>Currently learning Python, AI/ML, and data analysis<br>Ask me about backend development, APIs, and embedded systems<br>Fun fact: I chose technology after starting out in biology.
+🔭 Currently working on web development projects<br>🤝 Looking to collaborate on open-source and AI projects<br>🌱 Currently learning Python, AI/ML, and data analysis<br>💬 Ask me about backend development, APIs, and embedded systems<br>⚡ Fun fact: I chose technology after starting out in biology.
 
 
 ## 🌐 Socials:
@@ -15,12 +15,13 @@ Currently working on web development projects<br>Looking to collaborate on open-
 <!-- 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=opokharel1&theme=shades-of-purple&no-frame=false&no-bg=false&margin-w=4) 
--->
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+-->
 
 ---
-[![](https://komarev.com/ghpvc/?username=opokharel1&icon=8&color=6)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=opokharel1&icon=8&color=blueviolet)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># opokharel1
